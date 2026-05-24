@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local data cache
+data/*.tif
+data/*.tiff
+data/*.csv
+data/*.json
+
+# Streamlit configurations
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
